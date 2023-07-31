@@ -123,7 +123,7 @@ resources:
   # ------------------------------------------------------------
     type: com.sap.xs.hdi-container
     parameters:
-      service: hana
+      service: HANA_DB
       service-plan: hana
     properties:
       hdi-service-name: ${service-name}
