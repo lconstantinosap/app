@@ -26,7 +26,7 @@ stages:
     cfOrg: "b3d16075trial"
     cfSpace: "dev"
     cfAppName: "app"
-    cfCredentialsId: "deploy-to-cf"
+    cfCredentialsId: "deploy-cf"
     deployType: "standard"
     tmsUpload: false
 steps:
