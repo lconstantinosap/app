@@ -124,7 +124,7 @@ resources:
     type: com.sap.xs.hdi-container
     parameters:
       service: hana
-      service-plan: hdi-shared
+      service-plan: hana
     properties:
       hdi-service-name: ${service-name}
 
